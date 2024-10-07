@@ -8,34 +8,37 @@ Answer:To keep our clients happy and manage resources efficiently, Software proj
 Answer:Client satisfaction, Optimized use of budget and resources.This can be ensureed by detailed cost estimation and contingency planning.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Answer:
+Answer:Agile is Iterative and collaborative while Waterfall is a linear and sequential approach to software development.
+Agile approach allows quick response to changes,more customer feedback and more team collaboration while Sequential approach provides clear structure and documentation and is easy to manage due to it's rigidity.
+Disadvatages for Agile approach are less predictability of the outcome of final software and the heavy dependence on customer input while Waterfall is difficult to accomodate changes and testing occurs late in development making debugging a bit more difficult.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-Answer:
+Answer:Agile is more beneficial when the outcome is less predictable and a larger development team while Waterfall is more beneficial for project with pre-defined set of rules.
+Example of Agile development is Mobile app which needs more features to maintain competitive advantage while an example of Waterfall is building a static website.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-Answer:
+Answer:Quality assurance can be ensured by a process oriented approach and by focusing to prevent bugs in the software.It is important to maintain high standards to meets the clients expectations and industry standards.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-Answer:
+Answer:Project scope difines boundaries,delivarbles,objectives and WBS which then allow us to envision the outcome.WBS breaks to software development into small manageable parts which makes complex projects more doabale and helps with keepsing up with the devolopment schedule.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-Answer:
+Answer:It helps to produce a timeline with milestones and the timely completion of the project.Gantt charts is the visual representation of the process and it helps to see the project schedule at a go.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-Answer:
+Answer:Software still in brainstorming stage.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-Answer:
+Answer:Software still in brainstorming stage.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-Answer:
+Answer:Software still in brainstorming stage.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-Answer:
+Answer:Software still in brainstorming stage.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
-Answer:
+Answer:Software still in brainstorming stage.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
-Answer:
+Answer:Software still in brainstorming stage.
