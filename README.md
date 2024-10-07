@@ -5,7 +5,7 @@
 Answer:To keep our clients happy and manage resources efficiently, Software project management(Spm) can be ensureed through proper planning, management and effective communication
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-Answer:
+Answer:Client satisfaction, Optimized use of budget and resources.This can be ensureed by detailed cost estimation and contingency planning.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Answer:
